@@ -44,5 +44,7 @@ public class Productdetails extends BasePage {
 	public String getproductdescription() {
 		return productdescription.getText();
 	}
-	
+	public WebElement getclose() {
+		
+	}
 }
